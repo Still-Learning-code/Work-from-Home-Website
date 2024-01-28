@@ -1,2 +1,3 @@
  Work-from-Home-Website 
- Finished program is to large to screen shot from codepen
+ 
+ The finished project is too large to screenshot from Codepen
